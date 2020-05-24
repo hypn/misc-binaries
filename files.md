@@ -53,19 +53,28 @@ netcat-x64-dynamic-debian-etch
 > ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/l, for GNU/Linux 2.6.0, with debug_info, not stripped
 ---
 netcat-x64-dynamic-debian-squeeze
-> ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/l, for GNU/Linux 2.6.18, BuildID[sha1]=f048a99a40946da6baf5cf4ea33d0acb924b7fce, not stripped
+> ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/l, for GNU/Linux 2.6.18, BuildID[sha1]=a0aa4a1f709576bb44bfd92f72486abcf2da50d1, not stripped
+---
+netcat-x64-dynamic-ubuntu-bionic-beaver
+> ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/l, for GNU/Linux 3.2.0, BuildID[sha1]=ebc32ae9fd50383a56de94351ba82873d90c10ed, not stripped
+---
+netcat-x64-osx-el-capitan
+> Mach-O 64-bit x86_64 executable, flags
 ---
 netcat-x64-static-debian-etch
 > ELF 64-bit LSB executable, x86-64, version 1 (SYSV), statically linked, for GNU/Linux 2.6.0, with debug_info, not stripped
 ---
 netcat-x64-static-debian-squeeze
-> ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 2.6.18, BuildID[sha1]=96083a5828638a2599636df8d0dfc9fce14bfa6b, not stripped
+> ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 2.6.18, BuildID[sha1]=a1234eb9b6a6a3953d4184c66e64d5b5a47ca514, not stripped
+---
+netcat-x64-static-ubuntu-bionic-beaver
+> ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, for GNU/Linux 3.2.0, BuildID[sha1]=1f34775bb79251221019d96821f89ca47e675c99, not stripped
 ---
 netcat-x86-dynamic
 > ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-, for GNU/Linux 2.2.5, not stripped
 ---
 netcat-x86-dynamic-debian-etch
-> ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-, for GNU/Linux 2.6.0, with debug_info, not stripped
+> ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-, for GNU/Linux 2.4.1, with debug_info, not stripped
 ---
 netcat-x86-dynamic-debian-squeeze
 > ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-, for GNU/Linux 2.6.18, BuildID[sha1]=26b912f6861183a78c3f48470d7edf2461658c8e, not stripped
@@ -77,7 +86,7 @@ netcat-x86-static
 > ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.2.5, not stripped, too many notes (256)
 ---
 netcat-x86-static-debian-etch
-> ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.0, with debug_info, not stripped
+> ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.4.1, with debug_info, not stripped
 ---
 netcat-x86-static-debian-squeeze
 > ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, for GNU/Linux 2.6.18, BuildID[sha1]=165c0ed0a4265e412853ff207896abb133240a88, not stripped
